@@ -13,7 +13,11 @@ The Jakarta EE Web Profile defines a profile of the Jakarta EE Platform specific
 * [Jakarta Web Profile 9.1 TCK](https://download.eclipse.org/jakartaee/platform/9.1/jakarta-jakartaeetck-9.1.0.zip)([sig](https://download.eclipse.org/jakartaee/platform/9.1/jakarta-jakartaeetck-9.1.0.zip.sig),[sha](https://download.eclipse.org/jakartaee/platform/9.1/jakarta-jakartaeetck-9.1.0.zip.sha256),[pub](https://raw.githubusercontent.com/jakartaee/specification-committee/master/jakartaee-spec-committee.pub))
 * Maven coordinates
   * [jakarta.platform:jakarta.webprofile-api:jar:9.1.0](https://search.maven.org/artifact/jakarta.platform/jakarta.jakartaee-web-api/9.1.0/jar)
-  
+
+The goal of the Jakarta EE 9.1 release is to deliver a set of specifications functionally equivalent to Jakarta EE 9 and adding the support for the Java SE 11 runtime.
+
+The Platform team sees Jakarta EE 9.1 as an extension to the foundational Jakarta EE 9 release. No API updates are expected in Jakarta EE 9.1. Only the Platform and Web Profile Specifications along with the TCK and Compatible Implementations should be affected by Jakarta EE 9.1.
+
 # Jakarta EE 9.1 Schedule
 
 * [Jakarta EE 9.1 Schedule](https://eclipse-ee4j.github.io/jakartaee-platform/jakartaee9/JakartaEE9.1#jakarta-ee-9.1-schedule)
